@@ -1,0 +1,22 @@
+{
+  "name": "cookbook",
+  "version": "1.0.0",
+  "author": "Jason Chen",
+  "description": "可能是最好的做饭指南",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenyicai622/Cookbook.git"
+  },
+  "keywords": [
+    "Chinese",
+    "cookbook",
+    "recipes",
+    "cooking",
+    "dishes"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chenyicai622/Cookbook/issues"
+  },
+  "homepage": "https://github.com/chenyicai622/Cookbook#readme"
+}
