@@ -47,7 +47,7 @@
 
 #### 荤菜
 
-- [红烧大头虾](https://github.com/chenyicai622/Cookbook/tree/main/menu/meat_dish/%E4%B8%89%E6%9D%AF%E9%B8%A1.md)
+- [红烧大头虾](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/%E7%BA%A2%E7%83%A7%E5%A4%A7%E5%A4%B4%E8%99%BE/%E7%BA%A2%E7%83%A7%E5%A4%A7%E5%A4%B4%E8%99%BE.md)
 
   
 
