@@ -1,4 +1,4 @@
-<img src="logo.png" style="width:140px;" />
+<img src="logo.png#pic_center" style="width:140px;" />
 
 <div style="font-size:38px;color:#000;text-align:center;font-weight:bold;">一人一食</div>
 
