@@ -47,15 +47,24 @@
 
 #### 荤菜
 
-- [红烧大头虾](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/%E7%BA%A2%E7%83%A7%E5%A4%A7%E5%A4%B4%E8%99%BE/%E7%BA%A2%E7%83%A7%E5%A4%A7%E5%A4%B4%E8%99%BE.md)
+- [红烧大头虾](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/红烧大头虾/红烧大头虾.md)
+
+- [三杯鸡](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/三杯鸡/三杯鸡.md)
+
+- [糖醋排骨](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/糖醋排骨/糖醋排骨.md)
+
+- [红烧肉](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/红烧肉/红烧肉.md)
+
+- [爆炒蛳螺](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/爆炒蛳螺/爆炒蛳螺.md)
 
   
 
 #### 素菜
 
-
-
-#### 凉菜
+- [清炒苋菜](https://github.com/chenyicai622/Cookbook/blob/main/menu/vegetable_dish/清炒苋菜/清炒苋菜.md)
+- [葱油蚕豆](https://github.com/chenyicai622/Cookbook/blob/main/menu/vegetable_dish/葱油蚕豆/葱油蚕豆.md)
+- [芦蒿炒香干](https://github.com/chenyicai622/Cookbook/blob/main/menu/vegetable_dish/芦蒿炒香干/芦蒿炒香干.md)
+- [丝瓜炒蛋](https://github.com/chenyicai622/Cookbook/blob/main/menu/vegetable_dish/丝瓜炒蛋/丝瓜炒蛋.md)
 
 
 
@@ -64,3 +73,9 @@
 
 
 #### 主食
+
+- [煲仔饭](https://github.com/chenyicai622/Cookbook/blob/main/menu/staple_dish/煲仔饭/煲仔饭.md)
+
+
+
+#### 凉菜
