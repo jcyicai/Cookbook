@@ -48,15 +48,10 @@
 #### 荤菜
 
 - [红烧大头虾](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/红烧大头虾/红烧大头虾.md)
-
 - [三杯鸡](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/三杯鸡/三杯鸡.md)
-
 - [糖醋排骨](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/糖醋排骨/糖醋排骨.md)
-
 - [红烧肉](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/红烧肉/红烧肉.md)
-
 - [爆炒蛳螺](https://github.com/chenyicai622/Cookbook/blob/main/menu/meat_dish/爆炒蛳螺/爆炒蛳螺.md)
-
   
 
 #### 素菜
